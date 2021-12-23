@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://raw.githubusercontent.com/ando023/thm-badge-builder/master/badge.png">](https://tryhackme.com/p/and023)
+[<img src="https://web.afnnetwork.xyz/badge.png">](https://tryhackme.com/p/and023)
 
 
 
