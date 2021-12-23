@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![thm-badge](https://raw.githubusercontent.com/ando023/thm-badge-builder/master/badge.png)
+[<img src="https://raw.githubusercontent.com/ando023/thm-badge-builder/master/badge.png">](https://tryhackme.com/p/and023)
+
+
 
 <!--
 **ando023/ando023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
